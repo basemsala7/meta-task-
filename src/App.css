@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.main > div {
+  margin: 20px;
+  width: 150px;
+  border: 1px solid green;
+  border-radius: 16px;
+  padding: 16px;
+}
+button {
+  margin: 8px;
+}
